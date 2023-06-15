@@ -16,8 +16,9 @@ app.listen(3000, function(){
 Text-shadow:
 text-shadow: 0 5px 10px rgba(0,0,0,.2);
 
-My Web app: 
+My Web apps: 
 https://todolist-jkp4.onrender.com/
+https://newsletter-9ysd.onrender.com
 
 Colors:
     color:#444;
